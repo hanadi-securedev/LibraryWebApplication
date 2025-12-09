@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transactions - Library Management</title>
+<link rel="stylesheet" href="./assest/css/design.css">
+</head>
+<body>
+<div class="animation-wrapper">
+        <div class="scene">
+            <div class="move-number">
+                <span class="last-item">S</span>
+            </div>
+            <div class="number-container">
+                <span class="mask-number">TRANSCATION </span>
+            </div>
+        </div>
+    </div>
+       
+   <!-- end section one-->
+
+       <!--section two-->
+
+    <div class="bg-orbs">
+        <div class="orb"></div>
+        <div class="orb"></div>
+        <div class="orb"></div>
+    </div>
+
+    <nav class="navbar">
+        <div class="nav-content">
+            <a href="./Index.html" class="nav-link active">Home</a>
+            <a href="./Books.html" class="nav-link">Books</a>
+            <a href="./Members.html" class="nav-link">Members</a>
+            <a href="./Staffs.html" class="nav-link">Staffs</a>
+            <a href="./Branches.html" class="nav-link">Branches</a>
+            <a href="./transcations.html" class="nav-link">Transactions</a>
+            <a href="./Authors.html" class="nav-link">Authors</a>
+            <a href="./Publisher.html" class="nav-link">Publishers</a>
+            <a href="./geners.html" class="nav-link">Genres</a>
+        </div>
+    </nav>
+    <div class="container">
+        <!-- Page Header -->
+        <div class="page-header">
+            <h1>📊 Library Transactions</h1>
+            <p>Track borrowing and return operations</p>
+        </div>
+
+        <!-- Search Section -->
+        <div class="search-section">
+            <div class="search-bar">
+                <input type="text" class="search-input" placeholder="Search by Member...">
+                <input type="text" class="search-input" placeholder="Search by Book...">
+                <input type="date" class="search-input">
+                <button class="btn btn-search">🔍 Search</button>
+                <button class="btn btn-add">➕ New Transaction</button>
+            </div>
+        </div>
+
+        <!-- Transactions Table -->
+        <div class="table-container">
+            <table class="data-table">
+                <thead>
+                    <tr>
+                        <th>Transaction ID</th>
+                        <th>Member</th>
+                        <th>Book Title</th>
+                        <th>Borrow Date</th>
+                        <th>Due Date</th>
+                        <th>Return Date</th>
+                        <th>Fine</th>
+                        <th>Status</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>T-2024-001</td>
+                        <td>Ahmed Al-Mansouri</td>
+                        <td>The Great Gatsby</td>
+                        <td>2024-11-01</td>
+                        <td>2024-11-15</td>
+                        <td>2024-11-14</td>
+                        <td>0.000 OMR</td>
+                        <td><span class="badge badge-active">Returned</span></td>
+                        <td>
+                            <div class="action-buttons">
+                                <button class="btn btn-view">👁️ View</button>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>T-2024-002</td>
+                        <td>Fatima Al-Balushi</td>
+                        <td>1984</td>
+                        <td>2024-11-05</td>
+                        <td>2024-11-19</td>
+                        <td>-</td>
+                        <td>0.000 OMR</td>
+                        <td><span class="badge badge-pending">Borrowed</span></td>
+                        <td>
+                            <div class="action-buttons">
+                                <button class="btn btn-edit">📥 Return</button>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>T-2024-003</td>
+                        <td>Mohammed Al-Harthy</td>
+                        <td>To Kill a Mockingbird</td>
+                        <td>2024-10-20</td>
+                        <td>2024-11-03</td>
+                        <td>-</td>
+                        <td>3.500 OMR</td>
+                        <td><span class="badge badge-inactive">Overdue</span></td>
+                        <td>
+                            <div class="action-buttons">
+                                <button class="btn btn-edit">📥 Return</button>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>T-2024-004</td>
+                        <td>Mariam Al-Zadjali</td>
+                        <td>Pride and Prejudice</td>
+                        <td>2024-11-08</td>
+                        <td>2024-11-22</td>
+                        <td>-</td>
+                        <td>0.000 OMR</td>
+                        <td><span class="badge badge-pending">Borrowed</span></td>
+                        <td>
+                            <div class="action-buttons">
+                                <button class="btn btn-edit">📥 Return</button>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>T-2024-005</td>
+                        <td>Khalid Al-Busaidi</td>
+                        <td>Harry Potter - Sorcerer's Stone</td>
+                        <td>2024-11-10</td>
+                        <td>2024-11-24</td>
+                        <td>-</td>
+                        <td>0.000 OMR</td>
+                        <td><span class="badge badge-pending">Borrowed</span></td>
+                        <td>
+                            <div class="action-buttons">
+                                <button class="btn btn-edit">📥 Return</button>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>T-2024-006</td>
+                        <td>Aisha Al-Lawati</td>
+                        <td>The Catcher in the Rye</td>
+                        <td>2024-10-25</td>
+                        <td>2024-11-08</td>
+                        <td>2024-11-12</td>
+                        <td>0.800 OMR</td>
+                        <td><span class="badge badge-active">Returned</span></td>
+                        <td>
+                            <div class="action-buttons">
+                                <button class="btn btn-view">👁️ View</button>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>T-2024-007</td>
+                        <td>Omar Al-Shaibani</td>
+                        <td>Animal Farm</td>
+                        <td>2024-11-12</td>
+                        <td>2024-11-26</td>
+                        <td>-</td>
+                        <td>0.000 OMR</td>
+                        <td><span class="badge badge-pending">Borrowed</span></td>
+                        <td>
+                            <div class="action-buttons">
+                                <button class="btn btn-edit">📥 Return</button>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>T-2024-008</td>
+                        <td>Layla Al-Hashmi</td>
+                        <td>The Hobbit</td>
+                        <td>2024-11-15</td>
+                        <td>2024-11-29</td>
+                        <td>-</td>
+                        <td>0.000 OMR</td>
+                        <td><span class="badge badge-pending">Borrowed</span></td>
+                        <td>
+                            <div class="action-buttons">
+                                <button class="btn btn-edit">📥 Return</button>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

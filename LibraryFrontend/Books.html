@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assest/css/design.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <title>Document</title>
+</head>
+
+<body style="background-color: #555">
+    <div class="animation-wrapper">
+        <div class="scene">
+            <div class="move-number">
+                <span class="last-item">S</span>
+            </div>
+            <div class="number-container">
+                <span class="mask-number">Book </span>
+            </div>
+        </div>
+    </div>
+
+    <!-- end section one-->
+
+    <!--section two-->
+
+    <div class="bg-orbs">
+        <div class="orb"></div>
+        <div class="orb"></div>
+        <div class="orb"></div>
+    </div>
+
+    <nav class="navbar">
+        <div class="nav-content">
+            <a href="./Index.html" class="nav-link active">Home</a>
+            <a href="./Books.html" class="nav-link">Books</a>
+            <a href="./Members.html" class="nav-link">Members</a>
+            <a href="./Staffs.html" class="nav-link">Staffs</a>
+            <a href="./Branches.html" class="nav-link">Branches</a>
+            <a href="./transcations.html" class="nav-link">Transactions</a>
+            <a href="./Authors.html" class="nav-link">Authors</a>
+            <a href="./Publisher.html" class="nav-link">Publishers</a>
+            <a href="./geners.html" class="nav-link">Genres</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <!-- Page Header -->
+        <div class="page-header">
+            <h1>📚 Books Collection</h1>
+            <p>Browse, search, and manage library books</p>
+        </div>
+
+        <!-- Search Section -->
+        <div class="search-section">
+            <div class="search-bar">
+                <form id="search-isbn">
+                    <input type="text" id="search1-input" placeholder="Search by ISBN...">
+                    <button class="btn btn-search">🔍 Search</button>
+                </form>
+            </div>
+            <form id="add-book">
+                <div class="allinput">
+                    <div class="input-row">
+                        <input type=" text" id="BookNAME" class="search-input" placeholder="Write The Book Name">
+                        <input type=" text" id="BookAuthor" class="search-input" placeholder="Write The Book Author">
+                        <input type=" text" id="BookISBN" class="search-input" placeholder="Write The BookISBN">
+                    </div>
+
+                    <div class="input-row">
+                        <input type=" text" id="BookPublisher" class="search-input"placeholder="Write The Book Publisher">
+                        <input type=" text" id="BookYear" class="search-input" placeholder="Write The Book Year">
+                        <input type=" text" id="BookGener" class="search-input" placeholder="Write The Book Gener">
+                    </div>
+                </div>
+                <button class="btn btn-add">➕ Add New Book</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Books Grid -->
+    <div class="books-grid">
+        <!-- Book Card 1 -->
+        <div class="book-card">
+            <div class="book-header">
+                <div>
+                    <h3 class="book-title">The Great Gatsby</h3>
+                    <p class="book-author">by F. Scott Fitzgerald</p>
+                    <p class="book-isbn">ISBN: 978-0-7432-7356-5</p>
+                </div>
+                <span class="availability-badge available">Available</span>
+            </div>
+            <div class="book-details">
+                <div class="detail-row">
+                    <span class="detail-label">Publisher:</span>
+                    <span class="detail-value">Scribner</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">Year:</span>
+                    <span class="detail-value">1925</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">Genre:</span>
+                    <span class="detail-value">Classic Fiction</span>
+                </div>
+            </div>
+            <div class="book-actions">
+                <button class="btn btn-edit">✏️ Edit</button>
+                <button class="btn btn-delete">🗑️ Delete</button>
+            </div>
+        </div>
+
+        <!-- Book Card 2 -->
+        <div class="book-card">
+            <div class="book-header">
+                <div>
+                    <h3 class="book-title">To Kill a Mockingbird</h3>
+                    <p class="book-author">by Harper Lee</p>
+                    <p class="book-isbn">ISBN: 978-0-06-112008-4</p>
+                </div>
+                <span class="availability-badge unavailable">Checked Out</span>
+            </div>
+            <div class="book-details">
+                <div class="detail-row">
+                    <span class="detail-label">Publisher:</span>
+                    <span class="detail-value">HarperCollins</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">Year:</span>
+                    <span class="detail-value">1960</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">Genre:</span>
+                    <span class="detail-value">Southern Gothic</span>
+                </div>
+            </div>
+            <div class="book-actions">
+                <button class="btn btn-edit">✏️ Edit</button>
+                <button class="btn btn-delete">🗑️ Delete</button>
+            </div>
+        </div>
+
+        <!-- Book Card 3 -->
+        <div class="book-card">
+            <div class="book-header">
+                <div>
+                    <h3 class="book-title">1984</h3>
+                    <p class="book-author">by George Orwell</p>
+                    <p class="book-isbn">ISBN: 978-0-452-28423-4</p>
+                </div>
+                <span class="availability-badge available">Available</span>
+            </div>
+            <div class="book-details">
+                <div class="detail-row">
+                    <span class="detail-label">Publisher:</span>
+                    <span class="detail-value">Penguin Books</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">Year:</span>
+                    <span class="detail-value">1949</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">Genre:</span>
+                    <span class="detail-value">Dystopian Fiction</span>
+                </div>
+            </div>
+            <div class="book-actions">
+                <button class="btn btn-edit">✏️ Edit</button>
+                <button class="btn btn-delete">🗑️ Delete</button>
+            </div>
+        </div>
+
+        <!-- Book Card 4 -->
+        <div class="book-card">
+            <div class="book-header">
+                <div>
+                    <h3 class="book-title">Pride and Prejudice</h3>
+                    <p class="book-author">by Jane Austen</p>
+                    <p class="book-isbn">ISBN: 978-0-14-143951-8</p>
+                </div>
+                <span class="availability-badge available">Available</span>
+            </div>
+            <div class="book-details">
+                <div class="detail-row">
+                    <span class="detail-label">Publisher:</span>
+                    <span class="detail-value">Penguin Classics</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">Year:</span>
+                    <span class="detail-value">1813</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">Genre:</span>
+                    <span class="detail-value">Romance</span>
+                </div>
+            </div>
+            <div class="book-actions">
+                <button class="btn btn-edit">✏️ Edit</button>
+                <button class="btn btn-delete">🗑️ Delete</button>
+            </div>
+        </div>
+
+        <!-- Book Card 5 -->
+        <div class="book-card">
+            <div class="book-header">
+                <div>
+                    <h3 class="book-title">The Catcher in the Rye</h3>
+                    <p class="book-author">by J.D. Salinger</p>
+                    <p class="book-isbn">ISBN: 978-0-316-76948-0</p>
+                </div>
+                <span class="availability-badge unavailable">Checked Out</span>
+            </div>
+            <div class="book-details">
+                <div class="detail-row">
+                    <span class="detail-label">Publisher:</span>
+                    <span class="detail-value">Little, Brown</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">Year:</span>
+                    <span class="detail-value">1951</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">Genre:</span>
+                    <span class="detail-value">Coming-of-age</span>
+                </div>
+            </div>
+            <div class="book-actions">
+                <button class="btn btn-edit">✏️ Edit</button>
+                <button class="btn btn-delete">🗑️ Delete</button>
+            </div>
+        </div>
+
+        <!-- Book Card 6 -->
+        <div class="book-card">
+            <div class="book-header">
+                <div>
+                    <h3 class="book-title">Harry Potter and the Sorcerer's Stone</h3>
+                    <p class="book-author">by J.K. Rowling</p>
+                    <p class="book-isbn">ISBN: 978-0-439-70818-8</p>
+                </div>
+                <span class="availability-badge available">Available</span>
+            </div>
+            <div class="book-details">
+                <div class="detail-row">
+                    <span class="detail-label">Publisher:</span>
+                    <span class="detail-value">Scholastic</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">Year:</span>
+                    <span class="detail-value">1997</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">Genre:</span>
+                    <span class="detail-value">Fantasy</span>
+                </div>
+            </div>
+            <div class="book-actions">
+                <button class="btn btn-edit">✏️ Edit</button>
+                <button class="btn btn-delete">🗑️ Delete</button>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <script src="./assest/js/script.js"></script>
+</body>
+
+</html>

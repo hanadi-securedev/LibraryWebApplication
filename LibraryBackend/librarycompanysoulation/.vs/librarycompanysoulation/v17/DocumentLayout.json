@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|c:\\users\\user pc\\source\\repos\\librarycompanysoulation\\librarycompany\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|solutionrelative:librarycompany\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|c:\\users\\user pc\\source\\repos\\librarycompanysoulation\\librarycompany\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|solutionrelative:librarycompany\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|c:\\users\\user pc\\source\\repos\\librarycompanysoulation\\librarycompany\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|solutionrelative:librarycompany\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|c:\\users\\user pc\\source\\repos\\librarycompanysoulation\\librarycompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|solutionrelative:librarycompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|c:\\users\\user pc\\source\\repos\\librarycompanysoulation\\librarycompany\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|solutionrelative:librarycompany\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|c:\\users\\user pc\\source\\repos\\librarycompanysoulation\\librarycompany\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|solutionrelative:librarycompany\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|c:\\users\\user pc\\source\\repos\\librarycompanysoulation\\librarycompany\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|solutionrelative:librarycompany\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|c:\\users\\user pc\\source\\repos\\librarycompanysoulation\\librarycompany\\migrations\\20251122130454_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|solutionrelative:librarycompany\\migrations\\20251122130454_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|c:\\users\\user pc\\source\\repos\\librarycompanysoulation\\librarycompany\\models\\enum\\availabilitystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|solutionrelative:librarycompany\\models\\enum\\availabilitystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOPGHDRBIV4_SQLEXPRESS/librarycompany/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|c:\\users\\user pc\\source\\repos\\librarycompanysoulation\\librarycompany\\models\\branche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|solutionrelative:librarycompany\\models\\branche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|c:\\users\\user pc\\source\\repos\\librarycompanysoulation\\librarycompany\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|solutionrelative:librarycompany\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOPGHDRBIV4_SQLEXPRESS/librarycompany/True/SqlTable/dbo.Contacts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOPGHDRBIV4_SQLEXPRESS/librarycompany/True/SqlTable/dbo.Branches.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|c:\\users\\user pc\\source\\repos\\librarycompanysoulation\\librarycompany\\migrations\\20251119210051_fixmaketransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A567C6-7A92-462A-A27B-3B2926545C67}|librarycompany\\librarycompany.csproj|solutionrelative:librarycompany\\migrations\\20251119210051_fixmaketransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251122130454_update.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Migrations\\20251122130454_update.cs",
+              "RelativeDocumentMoniker": "librarycompany\\Migrations\\20251122130454_update.cs",
+              "ToolTip": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Migrations\\20251122130454_update.cs",
+              "RelativeToolTip": "librarycompany\\Migrations\\20251122130454_update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T13:04:54.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Availabilitystatus.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Enum\\Availabilitystatus.cs",
+              "RelativeDocumentMoniker": "librarycompany\\Models\\Enum\\Availabilitystatus.cs",
+              "ToolTip": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Enum\\Availabilitystatus.cs",
+              "RelativeToolTip": "librarycompany\\Models\\Enum\\Availabilitystatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T13:02:57.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Books.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOPGHDRBIV4_SQLEXPRESS/librarycompany/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/LAPTOPGHDRBIV4_SQLEXPRESS/librarycompany/True/SqlTable/dbo.Books.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-22T13:01:39.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Contacts.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOPGHDRBIV4_SQLEXPRESS/librarycompany/True/SqlTable/dbo.Contacts.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/LAPTOPGHDRBIV4_SQLEXPRESS/librarycompany/True/SqlTable/dbo.Contacts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-22T10:17:02.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.Branches.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOPGHDRBIV4_SQLEXPRESS/librarycompany/True/SqlTable/dbo.Branches.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/LAPTOPGHDRBIV4_SQLEXPRESS/librarycompany/True/SqlTable/dbo.Branches.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-22T10:14:41.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251119210051_FixMakeTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Migrations\\20251119210051_FixMakeTransaction.cs",
+              "RelativeDocumentMoniker": "librarycompany\\Migrations\\20251119210051_FixMakeTransaction.cs",
+              "ToolTip": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Migrations\\20251119210051_FixMakeTransaction.cs",
+              "RelativeToolTip": "librarycompany\\Migrations\\20251119210051_FixMakeTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:00:51.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "librarycompany\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Staff.cs",
+              "RelativeToolTip": "librarycompany\\Models\\Staff.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwBgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:49:06.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "librarycompany\\Models\\Publisher.cs",
+              "ToolTip": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Publisher.cs",
+              "RelativeToolTip": "librarycompany\\Models\\Publisher.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:48:56.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "librarycompany\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Member.cs",
+              "RelativeToolTip": "librarycompany\\Models\\Member.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:48:41.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "librarycompany\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Genre.cs",
+              "RelativeToolTip": "librarycompany\\Models\\Genre.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:48:33.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "librarycompany\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Author.cs",
+              "RelativeToolTip": "librarycompany\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:48:05.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Branche.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Branche.cs",
+              "RelativeDocumentMoniker": "librarycompany\\Models\\Branche.cs",
+              "ToolTip": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Branche.cs",
+              "RelativeToolTip": "librarycompany\\Models\\Branche.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAE8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:31:24.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "librarycompany\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Book.cs",
+              "RelativeToolTip": "librarycompany\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:30:55.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Program.cs",
+              "RelativeDocumentMoniker": "librarycompany\\Program.cs",
+              "ToolTip": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Program.cs",
+              "RelativeToolTip": "librarycompany\\Program.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAACoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:42:47.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "librarycompany\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\USER PC\\source\\repos\\librarycompanysoulation\\librarycompany\\Models\\Transaction.cs",
+              "RelativeToolTip": "librarycompany\\Models\\Transaction.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:32:04.287Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
